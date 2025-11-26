@@ -4,6 +4,6 @@ Repositório com todos os projetos do Bootcamp.
 
 ## Projetos
 
-- Sistema Bancário v2 (com funções) → [clique aqui](./03%20-%20Sistema%20Bancário/sistema_bancario_v2.py)
+- Sistema Bancário v2 (com funções) → [clique aqui](./01%20-%20Sistema%20Bancário/sistema_bancario_v2.py)
 
 BrElchin
